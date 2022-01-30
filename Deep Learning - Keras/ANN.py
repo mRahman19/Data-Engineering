@@ -2,7 +2,7 @@
 # dataset contain last 6 month details of customer of Bank 
 # Our job is to figure out which customer has high probability to leave the bank.
 # 0 define stay in the Bank and 1 define leave the Bank. 
-# This method can use any other scenario not only for Bank. for instance - should the person get loan or not, should the person get credit card or not. 
+# This method can use any other scenario not only for Bank. for instance - should the person get loan or not, should the person get credit card or not
 
 #Import libraries
 import numpy as np
